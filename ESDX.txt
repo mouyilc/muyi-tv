@@ -3,8 +3,8 @@
 
 恩施公共,https://46240-live.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
 
-恩施综合,http://119.100.208.158:11223/rtp/239.69.1.10:9700
-恩施公共,http://119.100.208.158:11223/rtp/239.69.1.11:9706
+恩施综合,http://119.100.208.144:11223/rtp/239.69.1.10:9700
+恩施公共,http://119.100.208.144:11223/rtp/239.69.1.11:9706
 
 湖北经视,http://yc770.cn:4022/rtp/239.69.1.41:9886
 湖北综合,http://yc770.cn:4022/rtp/239.69.1.42:9892
