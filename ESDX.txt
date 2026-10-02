@@ -714,6 +714,25 @@ Bestv赛事5,http://A/ku9/py/socks5.py?ip=www.1833318.xyz:29777&u=http://iptvrr.
 Bestv赛事6,http://A/ku9/py/socks5.py?ip=www.1833318.xyz:29777&u=http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001154/index.m3u8
 
 四季台湾,#genre#,DE=3
+CCTV-1,https://ysp.ximan.cc.cd/cctv1/playlist.m3u8
+CCTV-2,https://ysp.ximan.cc.cd/cctv2/playlist.m3u8
+CCTV-3,https://ysp.ximan.cc.cd/cctv3/playlist.m3u8
+CCTV-4,https://ysp.ximan.cc.cd/cctv4/playlist.m3u8
+CCTV-5,https://ysp.ximan.cc.cd/cctv5/playlist.m3u8
+CCTV-5+,https://ysp.ximan.cc.cd/cctv5p/playlist.m3u8
+CCTV-6,https://ysp.ximan.cc.cd/cctv6/playlist.m3u8
+CCTV-7,https://ysp.ximan.cc.cd/cctv7/playlist.m3u8
+CCTV-8,https://ysp.ximan.cc.cd/cctv8/playlist.m3u8
+CCTV-9,https://ysp.ximan.cc.cd/cctv9/playlist.m3u8
+CCTV-10,https://ysp.ximan.cc.cd/cctv10/playlist.m3u8
+CCTV-11,https://ysp.ximan.cc.cd/cctv11/playlist.m3u8
+CCTV-12,https://ysp.ximan.cc.cd/cctv12/playlist.m3u8
+CCTV-13,https://ysp.ximan.cc.cd/cctv13/playlist.m3u8
+CCTV-14,https://ysp.ximan.cc.cd/cctv14/playlist.m3u8
+CCTV-15,https://ysp.ximan.cc.cd/cctv15/playlist.m3u8
+CCTV-16,https://ysp.ximan.cc.cd/cctv16/playlist.m3u8
+CCTV-17,https://ysp.ximan.cc.cd/cctv17/playlist.m3u8
+
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
@@ -1055,7 +1074,7 @@ BesTV,http://A/ku9/py/socks5.py?ip=117.24.4.225:9999&u=http://27.148.240.185/PLT
 家有购物,http://A/ku9/py/socks5.py?ip=117.24.4.225:9999&u=http://27.148.240.185/PLTV/88888888/224/3221226853/1.m3u8
 健身频道,http://A/ku9/py/socks5.py?ip=117.24.4.225:9999&u=http://27.148.240.185/PLTV/88888888/224/3221226845/1.m3u8
 
-江苏移动,#genre#,PB=starttime=${(b)yyyyMMddHHmmss|UTC}&endtime=${(e)yyyyMMddHHmmss|UTC},DE=3
+江苏移动,#genre#,DE=3
 CCTV4K,http://A/ku9/py/socks5.py?ip=iptvrc.huan.tv:51084&u=http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 CCTV4K,http://A/ku9/py/socks5.py?ip=iptvrc.huan.tv:51084&u=http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV8K,http://A/ku9/py/socks5.py?ip=iptvrc.huan.tv:51084&u=http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
@@ -1145,6 +1164,7 @@ NEW中国功夫,http://A/ku9/py/socks5.py?ip=iptvrc.huan.tv:51084&u=http://ott.m
 文化精品,http://A/ku9/py/socks5.py?ip=iptvrc.huan.tv:51084&u=http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
 央视高网,http://A/ku9/py/socks5.py?ip=iptvrc.huan.tv:51084&u=http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 央视台球,http://A/ku9/py/socks5.py?ip=iptvrc.huan.tv:51084&u=http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
+
 CCTV4K,http://A/ku9/py/socks5.py?ip=58.209.223.129:20332&u=http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 CCTV4K,http://A/ku9/py/socks5.py?ip=58.209.223.129:20332&u=http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV8K,http://A/ku9/py/socks5.py?ip=58.209.223.129:20332&u=http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
